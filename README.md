@@ -1,2 +1,3 @@
 # example-game
-Just for learning.
+Just for learning. LoL
+
